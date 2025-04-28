@@ -24,19 +24,6 @@ Here are some ideas to get you started:
 
 ---
 
-<details>
-<summary>My top languages</summary>
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
-
-</details>
-
----
-
 ### 🧠 About Me
 
 - 🔭 I’m currently working on **innovative Blockchain solutions**.
@@ -44,21 +31,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **open-source projects that bridge design and technology**.
 - 💬 Ask me about **Blockchain, Solidity, React, and TypeScript**.
 - 📫 How to reach me: **[sinarahimi.dev](https://sinarahimi.dev)**
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinarahimi&show_icons=true&theme=radical" alt="Sina's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinarahimi&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinarahimi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
