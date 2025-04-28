@@ -19,12 +19,3 @@ Here are some ideas to get you started:
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
----
-
-### 🧠 About Me
-
-- 🔭 I’m currently working on **innovative Blockchain solutions**.
-- 🌱 I’m exploring **cutting-edge smart contract development**.
-- 👯 I’m looking to collaborate on **open-source projects that bridge design and technology**.
-- 💬 Ask me about **Blockchain, Solidity, React, and TypeScript**.
-- 📫 How to reach me: **[sinarahimi.dev](https://sinarahimi.dev)**
