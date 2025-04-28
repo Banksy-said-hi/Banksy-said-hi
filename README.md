@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Sina Rahimi</h1>
-<h3 align="center">Smart Contract Engineer | Product Designer</h3>
-
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
