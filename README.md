@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Sina Rahimi</h1>
-<h3 align="center">Frontend Developer | Smart Contract Engineer | Product Designer</h3>
+<h3 align="center">Smart Contract Engineer | Product Designer</h3>
 
 <p align="center">
   <a href="https://sinarahimi.dev" target="_blank">
@@ -70,12 +70,18 @@ Here are some ideas to get you started:
 </p>
 
 ---
+### 📈 GitHub Stats
 
-### 🌐 Let's Connect
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sinarahimi&show_icons=true&theme=radical" alt="Sina's GitHub Stats" />
+</p>
 
-- Portfolio: [sinarahimi.dev](https://sinarahimi.dev)
-- Twitter: [@sina_raahimi](https://twitter.com/sina_raahimi)
-- LinkedIn: [Sina Rahimi](https://www.linkedin.com/in/sinarahimii)
-- Instagram: [@sinarahimiiy](https://www.instagram.com/sinarahimiiy/)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinarahimi&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinarahimi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
