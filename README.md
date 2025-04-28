@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Banksy-said-hi/Banksy-said-hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,15 +15,19 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Sina Rahimi</h1>
 <h3 align="center">Smart Contract Engineer | Product Designer</h3>
+
 ---
+
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **innovative web applications and decentralized platforms**.
-- 🌱 I’m exploring **cutting-edge frontend technologies and smart contract development**.
+- 🔭 I’m currently working on **innovative Blockchain solutions**.
+- 🌱 I’m exploring **cutting-edge smart contract development**.
 - 👯 I’m looking to collaborate on **open-source projects that bridge design and technology**.
-- 💬 Ask me about **React, Vue, Next.js, TypeScript, Solidity, and UI/UX design**.
+- 💬 Ask me about **Blockchain, Solidity, React, and TypeScript**.
 - 📫 How to reach me: **[sinarahimi.dev](https://sinarahimi.dev)**
+
 ---
+
 ### 📈 GitHub Stats
 
 <p align="center">
